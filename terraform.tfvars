@@ -1,0 +1,5 @@
+region        = "us-east-1"
+ami           = "ami-03ededff12e34e59e"
+keypair       = "devkey"
+instance_type = "t2.nano"
+name          = "dev-server"
